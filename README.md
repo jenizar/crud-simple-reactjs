@@ -5,7 +5,7 @@
  
  Youtube video:
  
- 
+ https://youtu.be/3DOgKVyykgE
  
 1. git clone https://github.com/jenizar/crud-simple-reactjs.git
 
