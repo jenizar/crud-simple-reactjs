@@ -9,7 +9,7 @@
  
 1. git clone https://github.com/jenizar/crud-simple-reactjs.git
 
-2. cd reactJs-simple-crud
+2. cd crud-simple-reactjs
 
 3. npm install
 
